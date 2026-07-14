@@ -67,6 +67,5 @@ Netflix Titles Dataset (CSV)
 
 **Suman Raj**
 
-LinkedIn: *(linkedin.com/in/sumanraj21)*
-
-GitHub: *(github.com/SumanRaj93)*
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sumanraj21)
+- 💻 [GitHub](https://github.com/SumanRaj93)

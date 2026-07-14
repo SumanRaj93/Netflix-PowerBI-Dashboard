@@ -34,15 +34,18 @@ This dashboard provides insights into Netflix's content library through interact
 
 ### Dashboard - Overview
 
-![Dashboard 1](dashboard-page1.png)
+<img width="951" height="531" alt="Dashboard1" src="https://github.com/user-attachments/assets/38ad1dc2-f2e1-4d32-8773-ee11a08dfc3c" />
+
 
 ### Dashboard - Content Analysis
 
-![Dashboard 2](dashboard-page2.png)
+<img width="967" height="540" alt="Dashboard2" src="https://github.com/user-attachments/assets/eaf4eb0e-e9e9-4a88-89b0-3e12cb367b1c" />
+
 
 ### Dashboard - Trends
 
-![Dashboard 3](dashboard-page3.png)
+<img width="961" height="538" alt="Dashboard3" src="https://github.com/user-attachments/assets/c8232147-1f4d-418b-ae5e-09bb751ae4b4" />
+
 
 
 ## 📁 Dataset
@@ -64,6 +67,6 @@ Netflix Titles Dataset (CSV)
 
 **Suman Raj**
 
-LinkedIn: *(Add your LinkedIn profile link)*
+LinkedIn: *(linkedin.com/in/sumanraj21)*
 
-GitHub: *(Add your GitHub profile link)*
+GitHub: *(github.com/SumanRaj93)*

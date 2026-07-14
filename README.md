@@ -1,2 +1,2 @@
 # Netflix-PowerBI-Dashboard
-Interactive Netflix Dashboard built using Power BI.
+Interactive Netflix Content Analysis Dashboard built with Power BI using data cleaning, Power Query, DAX, and interactive visualizations.

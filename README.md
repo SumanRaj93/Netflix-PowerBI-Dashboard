@@ -34,18 +34,15 @@ This dashboard provides insights into Netflix's content library through interact
 
 ### Dashboard - Overview
 
-![Dashboard 1](<img width="951" height="531" alt="Dashboard1" src="https://github.com/user-attachments/assets/9b6c4e72-69e2-423b-89bc-f541d9305a89" />)
-<img width="967" height="540" alt="Dashboard2" src="https://github.com/user-attachments/assets/bcdcb06b-ba88-4f31-9d7a-c81c0298b1bf" />
-)
+![Dashboard 1](dashboard-page1.png)
 
 ### Dashboard - Content Analysis
 
-![Dashboard 2](<img width="961" height="538" alt="Dashboard3" src="https://github.com/user-attachments/assets/cded20dd-d1c6-455e-92d2-919d52d40219" />)
+![Dashboard 2](dashboard-page2.png)
 
 ### Dashboard - Trends
 
-![Dashboard 3](<img width="967" height="540" alt="Dashboard2" src="https://github.com/user-attachments/assets/bcdcb06b-ba88-4f31-9d7a-c81c0298b1bf" />
-)
+![Dashboard 3](dashboard-page3.png)
 
 
 ## 📁 Dataset
